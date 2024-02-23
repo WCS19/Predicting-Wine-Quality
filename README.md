@@ -18,7 +18,7 @@ The project involved exploring multiple regression models to establish a relatio
 ```plaintext
 
 ├── data
-│   └── winequality.csv             # Dataset used for training and testing the models
+│   └── wineQT.csv             # Dataset used for training and testing the models
 ├── models
 │   ├── linear_regression        # Linear regression model
 │   ├── ridge_regression         # Ridge regression model
